@@ -1,0 +1,12 @@
+# Ignorar los datasets pesados de Kaggle (Evita errores de límite de tamaño)
+*.csv
+*.xlsx
+
+# Archivos de configuración de entornos de desarrollo (Eclipse, NetBeans, VS Code, IntelliJ)
+.settings/
+bin/
+.classpath
+.project
+.idea/
+*.iml
+out/
